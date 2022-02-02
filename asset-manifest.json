@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/SpaceTourReactWebsite/static/css/main.7024a819.chunk.css",
+    "main.js": "/SpaceTourReactWebsite/static/js/main.7c0bf3e1.chunk.js",
+    "main.js.map": "/SpaceTourReactWebsite/static/js/main.7c0bf3e1.chunk.js.map",
+    "runtime-main.js": "/SpaceTourReactWebsite/static/js/runtime-main.811cd0d3.js",
+    "runtime-main.js.map": "/SpaceTourReactWebsite/static/js/runtime-main.811cd0d3.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/SpaceTourReactWebsite/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.f0ef294b.chunk.js": "/SpaceTourReactWebsite/static/js/2.f0ef294b.chunk.js",
+    "static/js/2.f0ef294b.chunk.js.map": "/SpaceTourReactWebsite/static/js/2.f0ef294b.chunk.js.map",
+    "index.html": "/SpaceTourReactWebsite/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/SpaceTourReactWebsite/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.7024a819.chunk.css.map": "/SpaceTourReactWebsite/static/css/main.7024a819.chunk.css.map",
+    "static/js/2.f0ef294b.chunk.js.LICENSE.txt": "/SpaceTourReactWebsite/static/js/2.f0ef294b.chunk.js.LICENSE.txt",
+    "static/media/astronut.67399cc5.gif": "/SpaceTourReactWebsite/static/media/astronut.67399cc5.gif",
+    "static/media/card1.fcab2e55.jpeg": "/SpaceTourReactWebsite/static/media/card1.fcab2e55.jpeg",
+    "static/media/card2.f52c4115.jpeg": "/SpaceTourReactWebsite/static/media/card2.f52c4115.jpeg",
+    "static/media/shuttle_animated.69913886.gif": "/SpaceTourReactWebsite/static/media/shuttle_animated.69913886.gif",
+    "static/media/social-facebook.8bd7076b.svg": "/SpaceTourReactWebsite/static/media/social-facebook.8bd7076b.svg",
+    "static/media/social-insta.fad01b69.svg": "/SpaceTourReactWebsite/static/media/social-insta.fad01b69.svg",
+    "static/media/social-twitter.a95da107.gif": "/SpaceTourReactWebsite/static/media/social-twitter.a95da107.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.811cd0d3.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.f0ef294b.chunk.js",
+    "static/css/main.7024a819.chunk.css",
+    "static/js/main.7c0bf3e1.chunk.js"
+  ]
+}
