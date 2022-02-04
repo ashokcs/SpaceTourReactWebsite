@@ -1,26 +1,25 @@
 import React from "react";
 import {NavLink} from "react-router-dom";
 
-const Common = (props) => {
+class BackGround extends React.Component {
+  render(){
   return (
     <>
-      <section id="header" className="d-flex align-items-center">
+    <section id="header" className="d-flex align-items-center">
         <div className="container-fluid ">
           <div className="row">
             <div className="col-10 mx-auto">
             <div className="row">
               <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
               <h1>
-              <strong className="brand-name"> Our Vision </strong>
+                {this.props.name} <strong className="brand-name"> - Space Tourism Inc. </strong>
               </h1>
               <h2 className="my-3">
-              Space Adventures wants as many people as possible to experience what it is like to live in space, to circle the Earth, or travel beyond Earth orbit. In the next ten years, our clients will have a choice as to what vehicle to fly to space on
+                Space Tousirm is something that always in the dream of every human being. We will make the dream into reality. NASA has tied up with Blue Origin and SpaceX to offer affordable Space Tour to common people. Let's go infinity and beyond.
               </h2>
-
               </div>
               <div className="col-lg-6 order-1 order-lg-2 header-img">
-              <img src={props.imgsrc} className="img-fluid animated" alt="home img" />
-
+              <img src={this.props.imgsrc} className="img-fluid animated" alt="home img" />
               </div>
               </div>
 
@@ -28,9 +27,9 @@ const Common = (props) => {
           </div>
         </div>
       </section>
-
     </>
   );
 };
+}
 
-export default Common;
+export default BackGround;

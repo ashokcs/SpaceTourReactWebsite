@@ -1,7 +1,7 @@
 import React from "react";
 import {NavLink} from "react-router-dom";
-import card1 from "../src/images/card1.jpeg"
-import card2 from "../src/images/card2.jpeg"
+import card1 from "../images/card1.jpeg"
+import card2 from "../images/card2.jpeg"
 
 class Cards extends React.Component {
     render() 
@@ -12,7 +12,7 @@ class Cards extends React.Component {
             <div className="container-fluid ">
             <div className="row">
                 <div className="col-10 mx-auto">
-                <h1>A Woman Has Paid Her Own Way Into Space, Too</h1>
+                <h1>A commonn person has made her way to the Space, Too</h1>
                 <br></br>
                 <div className="row">
                     <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
